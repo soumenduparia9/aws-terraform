@@ -14,7 +14,7 @@ environment{
                  script{
                         dir("terraform")
                         {
-                            git "https://github.com/somendu99/newone.git"
+                            git "https://github.com/soumenduparia9/aws-terraform.git"
                         }
                     }
                 }
